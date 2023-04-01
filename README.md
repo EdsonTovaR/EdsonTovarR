@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **edsonromo6@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/10E9Ene-v2SUAwtBwpN6RbKGTPZ9fMVyx/view?usp=share_link](https://drive.google.com/file/d/10E9Ene-v2SUAwtBwpN6RbKGTPZ9fMVyx/view?usp=share_link)
+- 📄 Know about my experiences 
 
 ### Blogs posts
 <!-- BLOG-POST-LIST:START -->
